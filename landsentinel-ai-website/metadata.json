@@ -1,0 +1,6 @@
+{
+  "name": "LANDSENTINEL AI",
+  "description": "Interactive Knowledge Portal for Smart India Hackathon (SIH) Problem Statement 26001: AI-Based Landslide Risk Intelligence and Early Warning Framework.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
